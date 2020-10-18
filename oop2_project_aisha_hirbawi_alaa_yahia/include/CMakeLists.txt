@@ -1,0 +1,23 @@
+﻿target_include_directories (oop2_project PRIVATE ${CMAKE_CURRENT_LIST_DIR})
+target_sources (oop2_project PRIVATE "Animal.h"
+									 "Board.h"
+									 "Controller.h"
+									 "Diamond.h"
+									 "Force.h"
+									 "GameObject.h"
+									 "Gift.h"
+									 "Gold.h"
+									 "Menu.h"
+									 "Money.h"
+									 "NonSelfMovment.h"
+									 "Roller.h"
+									 "SelfMovment.h"
+									 "Ston.h"
+									 "Window.h"
+									 "GoldMiner.h"
+									 "StageHandler.h"
+									 "Game.h"
+									 "ResourceManager.h"
+									 "CollisionHandling.h"
+									 "TNT.h")
+
