@@ -2,7 +2,7 @@
 The Gold Miner Game: a final project within the course Object-Oriented programming.
 Supervised by:  Dr. Michal Alhanaty ,Yehezkel Bernat and Amitai Levi.
 
-By: Alaa Yahia and Aisha Herbawi.
+By: Alaa Yahia and Aisha Hirbawi.
 
 Programming language: C++
 
